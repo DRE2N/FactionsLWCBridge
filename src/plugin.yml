@@ -1,6 +1,0 @@
-name: FactionsLWCBridge
-main: io.github.dre2n.factionslwcbridge.FactionsLWCBridge
-version: 1.0
-author: Daniel Saukel
-website: https://dre2n.github.io
-depend: [Factions, LWC]
